@@ -1,0 +1,30 @@
+body {
+	background-color: red; 
+}
+.block { 
+    width: 800px;
+    background-color: rgb(0, 125, 59);
+    margin: 0 auto;
+
+   text-align: center;
+   font-size: 20px;
+}
+.abc 
+{
+	color: blue;
+}
+.t2{
+	font-weight: bold;
+}
+.t3{
+	text-decoration: underline;
+}
+table{
+	border: 5px solid grey;
+}
+th{
+	border: 5px solid grey;
+}
+tr{
+	border: 5px solid grey;
+}
